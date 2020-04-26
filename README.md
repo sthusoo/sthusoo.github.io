@@ -1,2 +1,2 @@
-# sthusoo.github.io
-Welcome! This site displays my past co-op experience and projects.
+# My Personal Website
+Welcome! This site displays my past co-op experiences and projects.
